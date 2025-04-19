@@ -21,13 +21,3 @@ else {
   document.writeln("La edad ingresada es: " + edad + " años. <br>");
   document.writeln("Usted no puede conducir.");
 }
-
-
-
-// do {
-//   var edad = parseInt(prompt("Ingrese su edad: "));
-
-// }
-// while (edad < 18);
-//   document.writeln("La edad ingredada es: " + edad + "<br>");
-//   document.writeln("Ya puedes conducir.<br>")
